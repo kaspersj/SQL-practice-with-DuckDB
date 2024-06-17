@@ -1,0 +1,1 @@
+The goal of this notebook is to query the rich dataset of nycflights13, and to recreate tables and calculations from my stats306 repository problemset 2, found at https://github.com/kaspersj/Stats-306/blob/master/problemset2.ipynb
