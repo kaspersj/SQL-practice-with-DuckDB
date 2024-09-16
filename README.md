@@ -1,6 +1,8 @@
 This Jupyter Notebook aims to explore the rich dataset provided by nycflights13 and replicate tables and calculations from your undergraduate coursework. This exercise will also serve as practice for using SQL programming skills with DuckDB.
-# Dataset:
-nycflights13: A comprehensive dataset containing flight information for New York City airports in 2013.
+# Datasets:
+ - nycflights13: A comprehensive dataset containing flight information for New York City airports in 2013.
+ - bil: A dataset describing billionaires.
+ - UCBAdmissions: This dataset contains graduate school admissions data from 1973 for six departments at UC Berkeley.
 # Goal:
 Practice SQL programming skills using DuckDB.
 What is DuckDB?
