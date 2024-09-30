@@ -1,4 +1,4 @@
-This Jupyter Notebook aims to explore the rich dataset provided by nycflights13 and replicate tables and calculations from undergraduate coursework. This exercise will also serve as practice for using SQL programming skills with DuckDB.
+This Jupyter Notebook aims to explore the rich datasets first explored in my Stats306 repo, and replicate tables and calculations from undergraduate coursework. This exercise will also serve as practice for using SQL programming skills with DuckDB.
 # Datasets:
  - nycflights13: A comprehensive dataset containing flight information for New York City airports in 2013.
  - bil: A dataset describing billionaires.
