@@ -17,6 +17,4 @@ DuckDB is a high-performance, in-memory analytical database that can be embedded
  -	Flight Delays: Analyze the distribution of flight delays, showcase SQL data manipulation skills, and explore relationships with factors like weather, airlines, and airports.
  -	Airline Performance: Compare the performance of different airlines in terms of on-time arrivals, cancellations,and delays.
  -	Weather Impact: Investigate the impact of weather conditions on flight delays and cancellations.
-# Code Structure:
-The notebook will be organized in the same order as questions from your Stats306 repository problem sets, found at https://github.com/kaspersj/Stats-306/tree/master
 
